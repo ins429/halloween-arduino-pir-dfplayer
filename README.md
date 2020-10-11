@@ -12,6 +12,8 @@
 
 ## Circuit Schematic
 
+![Schematic](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/circuit.png)
+
 
 ## Photos
 
