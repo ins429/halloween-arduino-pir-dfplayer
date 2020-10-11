@@ -15,7 +15,15 @@
 ![Schematic](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/circuit.png)
 
 
-## Photos
+## Photos & Videos
+
+![inside](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/photo_1.jpeg)
+
+![video 1](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/video_1.mp4)
+
+![video 2](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/video_2.mp4)
+
+![video 3](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/video_3.mp4)
 
 
 ## Tips
