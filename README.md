@@ -12,12 +12,12 @@
 
 ## Circuit Schematic
 
-![Schematic](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/circuit.png)
+![Schematic](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/circuit.png =480x320)
 
 
 ## Photos & Videos
 
-![inside](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/photo_1.jpeg)
+![inside](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/photo_1.jpeg =480x320)
 
 ![video 1](https://github.com/ins429/halloween-arduino-pir-dfplayer/blob/master/video_1.mp4)
 
